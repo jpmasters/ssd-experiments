@@ -2,7 +2,7 @@
 To do this, make sure the project is created at Python 3.9 as some of the libraries don't work yet for 3.10.
 
 for Mac:
-- Install the tensorflow-macos package
+- Install the tensorflow-macos and tensorflow-metal packages
 - tensorflow-text needs a download of the .whl from [github](https://github.com/sun1638650145/Libraries-and-Extensions-for-TensorFlow-for-Apple-Silicon/releases)
   - Note that the 38 / 39 etc relate to the Python version i.e. 38 is for Python 3.8
   - To install, from inside the console in the venv 
